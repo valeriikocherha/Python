@@ -1,1 +1,1 @@
-# Progonov-labs-4-term
+# progonov-term-4-labs
